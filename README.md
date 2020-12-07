@@ -1,2 +1,2 @@
 # adv-ml-final-project
-Deadline The deadline for the final project code is 11:59 pm, Dec 08.  Please submit a zip file including all your code and a README file including explanations of your project and instructions on how to run your code. If you have pushed your project (code and README) to GitHub, it is also allowed to submit the GitHub link of your project.  Note that code must be properly commented. Code will be graded based on both reproductivity and neatness including clear comments.  For group projects, only one member of each team needs to submit on Canvas and please comment your team member's name when making submission.
+Deadline The deadline for the final project code is 11:59 pm, Dec 08.
