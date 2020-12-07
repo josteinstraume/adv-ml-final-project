@@ -31,3 +31,6 @@
 # <a name="Results"></a>Results
 
 # <a name="Sources"></a>Sources
+1. https://www.kaggle.com/kratisaxena/lstm-gru-models-for-stock-movement-analysis#LSTM-Model-for-Prediction-of-movement-of-stocks
+2. https://github.com/borisbanushev/stockpredictionai
+3. https://www.kaggle.com/jacksoncrow/stock-market-dataset
