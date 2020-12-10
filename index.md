@@ -5,6 +5,7 @@
 # Table of Contents
 * [Team Members](#Team)
 * [Abstract](#Abstract)
+* [Pertinent Links](#Links)
 * [Introduction](#Introduction)
 * [Related Work](#Related-Work)
 * [Background](#Background)
@@ -19,6 +20,12 @@
 # <a name="Abstract"></a>Abstract
 
 > In this case study, the application of Long-Term Short-Term Neural Network towards various Financial Technical Indicators is presented.
+
+# <a name="Links"></a>Pertinent Links
+* [Video presentation can be found here](https://drive.google.com/file/d/1p9hkk5D2o59jAw9YmxZhbHLuBPwnKdXh/view?usp=sharing)
+* [Slides from the presentation can be found here](https://github.com/josteinstraume/adv-ml-final-project/tree/main/presentation)
+* [Code for this final project can be found here](https://github.com/josteinstraume/adv-ml-final-project/tree/main/notebooks)
+* [Final report paper can be found here](https://github.com/josteinstraume/adv-ml-final-project/tree/main/report)
 
 # <a name="Introduction"></a>Introduction
 
