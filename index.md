@@ -1,6 +1,8 @@
-# Benchmarking Technical Indicators of Stocks with LSTM
+# Stock Market Prediction with LSTM Neural Networks
 ## CS 5824: Final Project
 ## Jostein Barry-Straume
+
+![VT Small Logo](https://github.com/josteinstraume/adv-ml-final-project/blob/main/images/vt-logo-small.png)
 
 # Table of Contents
 * [Team Members](#Team)
@@ -45,6 +47,14 @@ Coming soon.
 # <a name="Background"></a>Background
 Coming soon.
 
+![Kaggle](https://github.com/josteinstraume/adv-ml-final-project/blob/main/images/kaggle.png)
+
+![Dataframe head](https://github.com/josteinstraume/adv-ml-final-project/blob/main/images/df-head.png)
+
+![ETF line plot](https://github.com/josteinstraume/adv-ml-final-project/blob/main/images/ETF-line-plot.png)
+
+![Technical Indicators](https://github.com/josteinstraume/adv-ml-final-project/blob/main/images/tech-indic.png)
+
 # <a name="Method"></a>Method
 
 ## Task:
@@ -56,6 +66,12 @@ Coming soon.
 ## Learning component:
 > The learning component of this problem would be the technical indicators of a given stock or ETF. Specifically, the model will learn and implicitly adjust the weights for the stock’s technical indicators based on a lookback window of time. For example, one ETF had 916 days of financial history. The first 800 days were used as a lookback window. Then the last 116 days were used to validate the performance of the learning components.
 
+![Add label method](https://github.com/josteinstraume/adv-ml-final-project/blob/main/images/add-label.png)
+
+![Talos workflow](https://github.com/josteinstraume/adv-ml-final-project/blob/main/images/talos-workflow.png)
+
+![Talos code](https://github.com/josteinstraume/adv-ml-final-project/blob/main/images/talos-code.png)
+
 
 # <a name="Results"></a>Results
 Validation Accuracy has strong, positive correlations with:
@@ -64,9 +80,16 @@ Validation Accuracy has strong, positive correlations with:
 * Duration of training
 * Round of epoch training
 
+![Heatmap](https://github.com/josteinstraume/adv-ml-final-project/blob/main/images/heatmap.png)
+
 > With regard to the distribution of validation accuracy among optimizers per each epoch level, overall distribution trend is logarithmic. In other words, as epochs increase (x-axis), validation accuracy increases. Moreover, the Adam optimizer has the largest variance, whereas the RMSprop optimizer has the smallest variance.
 
+![QQplot](https://github.com/josteinstraume/adv-ml-final-project/blob/main/images/qqplot.png)
+
 > By breaking down validation accuracy for each neuron density by epochs per each optimizer: it can be shown that RMSprop performs consistently better in each neuron density. Additionally, SGD seems to struggle at highest neural density; perhaps overfitting?
+
+![Bar grid 1](https://github.com/josteinstraume/adv-ml-final-project/blob/main/images/bar-grid-1.png)
+![Bar grid 2](https://github.com/josteinstraume/adv-ml-final-project/blob/main/images/bar-grid-2.png)
 
 
 # <a name="Sources"></a>Sources
