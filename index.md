@@ -59,13 +59,13 @@ Coming soon.
 
 # <a name="Method"></a>Method
 
-**Task:**
+## Task:
 > I believe this term project would be classified as a supervised learning problem. In other words, I am predicting results within a continuous output, which maps input variables to a continuous function. In this situation, the input variables are the four basic daily information columns given as a stock’s open, close, high, and low values for the day. From here, more nuanced technical indicators are calculated as further input variables. Moreover, the output variable would be the stock’s closing price where time t = i + 1. I am modelling this behavior by creating a binary label that captures if the stock held or increased versus decreased compared to the previous day.
  
-**Performance measure:**
+## Performance measure:
 > The performance measure for this project is validation accuracy. I am looking to see how accurate a model can correctly predict which way a stock or ETF will move. Although this is a very basic performance measure, it is one of the most necessary to determine if I have a well performing model. In the future, I hope to implement a couple other performance measures into my model evaluation, which I will talk about in the later sections of this presentation.
  
-**Learning component:**
+## Learning component:
 > The learning component of this problem would be the technical indicators of a given stock or ETF. Specifically, the model will learn and implicitly adjust the weights for the stock’s technical indicators based on a lookback window of time. For example, one ETF had 916 days of financial history. The first 800 days were used as a lookback window. Then the last 116 days were used to validate the performance of the learning components.
 
 ![Add label method](https://github.com/josteinstraume/adv-ml-final-project/blob/main/images/add-label.png)
