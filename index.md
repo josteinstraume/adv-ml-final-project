@@ -2,6 +2,8 @@
 ## CS 5824: Final Project
 ## Jostein Barry-Straume
 
+![VT Small Logo](/images/vt-logo-small.png)
+
 ![VT Small Logo](https://github.com/josteinstraume/adv-ml-final-project/blob/main/images/vt-logo-small.png)
 
 # Table of Contents
